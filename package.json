@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "1.4.3",
+    "@material-ui/icons": "2.0.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-reveal": "1.2.2",
+    "react-scripts": "3.4.1",
+    "react-scroll": "^1.7.16",
+    "react-slick": "^0.26.1",
+    "react-spring": "^8.0.27",
+    "surge": "^0.21.3"
   },
   "scripts": {
     "start": "react-scripts start",
